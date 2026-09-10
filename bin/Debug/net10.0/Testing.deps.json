@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Testing/1.0.0": {
+        "dependencies": {
+          "Sharprompt": "3.1.2"
+        },
+        "runtime": {
+          "Testing.dll": {}
+        }
+      },
+      "Sharprompt/3.1.2": {
+        "runtime": {
+          "lib/net8.0/Sharprompt.dll": {
+            "assemblyVersion": "3.1.2.0",
+            "fileVersion": "3.1.2.0"
+          }
+        },
+        "resources": {
+          "lib/net8.0/de-DE/Sharprompt.resources.dll": {
+            "locale": "de-DE"
+          },
+          "lib/net8.0/ja/Sharprompt.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sharprompt/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zn9X2m8qnuQ8xz1lItnqK3ULuB4r+Y92ogOc6JO+20Hxfw13qlKGugHVIio6+dSfPuHSSw4gJXQ0ihLjP0xjRw==",
+      "path": "sharprompt/3.1.2",
+      "hashPath": "sharprompt.3.1.2.nupkg.sha512"
+    }
+  }
+}

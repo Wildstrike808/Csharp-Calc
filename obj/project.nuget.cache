@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dqzN0PDbFnY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barna\\RiderProjects\\Testing\\Testing\\Testing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barna\\.nuget\\packages\\sharprompt\\3.1.2\\sharprompt.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
